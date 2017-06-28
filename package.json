@@ -1,0 +1,23 @@
+{
+  "name": "hellophaser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "node ./node_modules/http-server/bin/http-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/goformarty/first-game-phaser.git"
+  },
+  "author": "Marty",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/goformarty/first-game-phaser/issues"
+  },
+  "homepage": "https://github.com/goformarty/first-game-phaser#readme",
+  "dependencies": {
+    "http-server": "^0.10.0"
+  }
+}
